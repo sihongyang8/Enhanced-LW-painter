@@ -10,9 +10,9 @@ or see the requirements.txt
 
 
 # Run
-1.train the model
+    1.train the model
     python train.py
-2.test the model
+    2.test the model
     python test.py
 
 # Download Datasets
