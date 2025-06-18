@@ -1,4 +1,4 @@
-# ERFNet
+# LW-painter
 
 # Environment
     Python
