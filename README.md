@@ -1,4 +1,4 @@
-# LW-painter
+# Enhanced LW-painter
 
 # Environment
     Python
