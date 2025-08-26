@@ -20,3 +20,9 @@ We use [FFHQ](https://github.com/NVlabs/ffhq-dataset), [LFW](http://vis-www.cs.u
 
 # Acknowledgement
 [MSCSWT-Net](https://github.com/bobo0303/MSCSWT-Net)
+[LSKA](https://github.com/StevenLauHKHK/Large-Separable-Kernel-Attention)
+[EAN](https://github.com/Lihahaah/EAN)
+[CTSDG](https://github.com/Xiefan-Guo/CTSDG)
+[ELAN](https://github.com/xindongzhang/ELAN)
+
+
