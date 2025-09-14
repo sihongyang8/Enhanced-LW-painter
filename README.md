@@ -26,7 +26,7 @@ We use [FFHQ](https://github.com/NVlabs/ffhq-dataset), [LFW](http://vis-www.cs.u
 [ELAN](https://github.com/xindongzhang/ELAN)
 [BSConv](https://github.com/zeiss-microscopy/BSConv)
 
-#Citation
+# Citation
 If you found this code helpful, please consider citing:
     
      @article{Enhanced LW-painter,
