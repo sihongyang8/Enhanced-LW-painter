@@ -26,4 +26,12 @@ We use [FFHQ](https://github.com/NVlabs/ffhq-dataset), [LFW](http://vis-www.cs.u
 [ELAN](https://github.com/xindongzhang/ELAN)
 [BSConv](https://github.com/zeiss-microscopy/BSConv)
 
-
+#Citation
+If you found this code helpful, please consider citing:
+    
+     @article{Enhanced LW-painter,
+      title={Enhanced LW-painter: Lightweight Image Inpainting via Large Receptive Field and Feature Fusion Optimization},
+      author={Sihong Yang, Qian Zhang, Yucheng Yang, Jiliang Shi, Wuer Bai , Shuang Liu},
+      journal={Signal, Image and Video Processing},
+      year={2025}
+    }
