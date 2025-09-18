@@ -29,9 +29,14 @@ We use [FFHQ](https://github.com/NVlabs/ffhq-dataset), [LFW](http://vis-www.cs.u
 # Citation
 If you found this code helpful, please consider citing:
     
-     @article{Enhanced LW-painter,
-      title={Enhanced LW-painter: Lightweight Image Inpainting via Large Receptive Field and Feature Fusion Optimization},
-      author={Sihong Yang, Qian Zhang, Yucheng Yang, Jiliang Shi, Wuer Bai , Shuang Liu},
-      journal={Signal, Image and Video Processing},
-      year={2025}
+
+    @article{article,
+    author = {Yang, Sihong and Zhang, Qian and Yang, Yucheng and Shi, Jiliang and Bai, Wuer and Liu, Shuang},
+    year = {2025},
+    month = {09},
+    pages = {},
+    title = {Enhanced LW-painter: Lightweight Image Inpainting via Large Receptive Field and Feature Fusion Optimization},
+    volume = {19},
+    journal = {Signal, Image and Video Processing},
+    doi = {10.1007/s11760-025-04685-5}
     }
